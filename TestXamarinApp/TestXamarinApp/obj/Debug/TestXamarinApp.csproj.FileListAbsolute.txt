@@ -8,7 +8,6 @@ C:\workspace\TestXamarinApp\TestXamarinApp\TestXamarinApp\bin\Debug\Xamarin.Form
 C:\workspace\TestXamarinApp\TestXamarinApp\TestXamarinApp\bin\Debug\Xamarin.Forms.Platform.pdb
 C:\workspace\TestXamarinApp\TestXamarinApp\TestXamarinApp\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\workspace\TestXamarinApp\TestXamarinApp\TestXamarinApp\bin\Debug\Xamarin.Forms.Xaml.xml
-C:\workspace\TestXamarinApp\TestXamarinApp\TestXamarinApp\obj\Debug\TestXamarinApp.csprojResolveAssemblyReference.cache
 C:\workspace\TestXamarinApp\TestXamarinApp\TestXamarinApp\obj\Debug\TestXamarinApp.MainPage.xaml.g.cs
 C:\workspace\TestXamarinApp\TestXamarinApp\TestXamarinApp\obj\Debug\TestXamarinApp.App.xaml.g.cs
 C:\workspace\TestXamarinApp\TestXamarinApp\TestXamarinApp\obj\Debug\TestXamarinApp.dll

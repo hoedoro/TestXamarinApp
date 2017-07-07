@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:TestXamarinApp"
              x:Class="TestXamarinApp.MainPage">
     <ContentPage.Padding>
-        <OnPlatForm x:ArgumentType="Thickness" iOS="0, 20, 0, 0" />
+        <OnPlatform x:TypeArguments="Thickness" iOS="0, 20, 0, 0" />
     </ContentPage.Padding>
     <StackLayout BindingContext="{x:Reference slider}" HorizontalOptions="Center" VerticalOptions="Center" >
         <BoxView Color="Green"

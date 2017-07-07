@@ -40,11 +40,3 @@ C:\workspace\TestXamarinApp\TestXamarinApp\TestXamarinApp.Android\bin\Debug\Form
 C:\workspace\TestXamarinApp\TestXamarinApp\TestXamarinApp.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
 C:\workspace\TestXamarinApp\TestXamarinApp\TestXamarinApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
 C:\workspace\TestXamarinApp\TestXamarinApp\TestXamarinApp.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
-C:\workspace\TestXamarinApp\TestXamarinApp\TestXamarinApp.Android\bin\Debug\TestXamarinApp.dll.mdb
-C:\workspace\TestXamarinApp\TestXamarinApp\TestXamarinApp.Android\bin\Debug\TestXamarinApp.Android.dll.mdb
-C:\workspace\TestXamarinApp\TestXamarinApp\TestXamarinApp.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
-C:\workspace\TestXamarinApp\TestXamarinApp\TestXamarinApp.Android\obj\Debug\android\assets\TestXamarinApp.Android.dll.mdb
-C:\workspace\TestXamarinApp\TestXamarinApp\TestXamarinApp.Android\obj\Debug\android\assets\TestXamarinApp.dll.mdb
-C:\workspace\TestXamarinApp\TestXamarinApp\TestXamarinApp.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
-C:\workspace\TestXamarinApp\TestXamarinApp\TestXamarinApp.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
-C:\workspace\TestXamarinApp\TestXamarinApp\TestXamarinApp.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
